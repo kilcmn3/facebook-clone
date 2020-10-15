@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Text, Navigator, TouchableHighlight } from 'react-native';
 
+//Maybe need to install
 export default class Navbar extends Component {
   render() {
     return (
